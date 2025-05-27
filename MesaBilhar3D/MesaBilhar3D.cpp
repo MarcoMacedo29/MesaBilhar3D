@@ -9,7 +9,7 @@
 
 // Janela
 const unsigned int SCR_WIDTH = 800;
-const unsigned int SCR_HEIGHT = 500;
+const unsigned int SCR_HEIGHT = 600;
 
 // Câmera orbital - parâmetros
 float camDistance = 5.0f;
